@@ -1,0 +1,3527 @@
+{
+    "schemaVersion":  "1.0.0",
+    "sourceArchive":  "source-archives/DataBank绔炲搧鍏煙鍙傛暟娌夋穩_20261104.zip",
+    "recordCount":  95,
+    "records":  [
+                    {
+                        "sourceIndex":  150,
+                        "sourceCrowdName":  "Y26雅诗兰黛白金眼霜浏览_",
+                        "sourceCrowdId":  "78655645",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_CATE_BHV"
+                                         ],
+                        "brandIds":  [
+                                         "20034"
+                                     ],
+                        "behavior":  "18930#|#CATE_PUBLIC_VIEWITEM",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+                                               "121484013#|#121484013"
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "stdBrand":  [
+                                                              "20034"
+                                                          ],
+                                             "channel":  [
+                                                             "16772#|#4"
+                                                         ],
+                                             "itemprice":  {
+                                                               "op":  "OPEN_OPEN"
+                                                           },
+                                             "title":  [
+                                                           "逆龄",
+                                                           "黑钻",
+                                                           "白月光"
+                                                       ]
+                                         },
+                        "labelsFile":  "sources/150-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  151,
+                        "sourceCrowdName":  "Y26雅诗6D眼霜浏览_",
+                        "sourceCrowdId":  "78655641",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_CATE_BHV"
+                                         ],
+                        "brandIds":  [
+                                         "20034"
+                                     ],
+                        "behavior":  "18930#|#CATE_PUBLIC_VIEWITEM",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+                                               "121484013#|#121484013"
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "stdBrand":  [
+                                                              "20034"
+                                                          ],
+                                             "channel":  [
+                                                             "16772#|#4"
+                                                         ],
+                                             "itemprice":  {
+                                                               "op":  "OPEN_OPEN"
+                                                           },
+                                             "title":  [
+                                                           "6D"
+                                                       ]
+                                         },
+                        "labelsFile":  "sources/151-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  156,
+                        "sourceCrowdName":  "Y26YTD眼霜CPB_护肤老品偏二达",
+                        "sourceCrowdId":  "78647438",
+                        "poolArrayIndex":  1,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_CATE_BHV"
+                                         ],
+                        "brandIds":  [
+                                         "18641319"
+                                     ],
+                        "behavior":  "18919#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20251231"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+                                               "201161605#|#201161605",
+                                               "201166702#|#201166702",
+                                               "125172008#|#125172008",
+                                               "121460005#|#121460005",
+                                               "122438001#|#122438001",
+                                               "201164006#|#201164006",
+                                               "121398020#|#121398020",
+                                               "201834201#|#201834201",
+                                               "50010813#|#50010813",
+                                               "201161714#|#201161714"
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "stdBrand":  [
+                                                              "18641319"
+                                                          ],
+                                             "price":  {
+                                                           "op":  "OPEN_OPEN"
+                                                       },
+                                             "channel":  [
+                                                             "16772#|#4"
+                                                         ],
+                                             "itemprice":  {
+                                                               "op":  "OPEN_OPEN"
+                                                           },
+                                             "frequency":  {
+                                                               "op":  "OPEN_OPEN"
+                                                           }
+                                         },
+                        "labelsFile":  "sources/156-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  156,
+                        "sourceCrowdName":  "Y26YTD眼霜CPB_护肤老品偏二达",
+                        "sourceCrowdId":  "78647438",
+                        "poolArrayIndex":  2,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_CATE_BHV"
+                                         ],
+                        "brandIds":  [
+                                         "18641319"
+                                     ],
+                        "behavior":  "18919#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20251231"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+                                               "50011993#|#50011993",
+                                               "201174001#|#201174001",
+                                               "50011997#|#50011997",
+                                               "121390006#|#121390006",
+                                               "121368010#|#121368010",
+                                               "50011991#|#50011991",
+                                               "50011980#|#50011980",
+                                               "201850303#|#201850303",
+                                               "121390007#|#121390007",
+                                               "50011990#|#50011990"
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "stdBrand":  [
+                                                              "18641319"
+                                                          ],
+                                             "price":  {
+                                                           "op":  "OPEN_OPEN"
+                                                       },
+                                             "channel":  [
+                                                             "16772#|#4"
+                                                         ],
+                                             "itemprice":  {
+                                                               "op":  "OPEN_OPEN"
+                                                           },
+                                             "frequency":  {
+                                                               "op":  "OPEN_OPEN"
+                                                           }
+                                         },
+                        "labelsFile":  "sources/156-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  156,
+                        "sourceCrowdName":  "Y26YTD眼霜CPB_护肤老品偏二达",
+                        "sourceCrowdId":  "78647438",
+                        "poolArrayIndex":  3,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_CATE_BHV"
+                                         ],
+                        "brandIds":  [
+                                         "18641319"
+                                     ],
+                        "behavior":  "18919#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20251231"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+                                               "121408009#|#121408009",
+                                               "121448009#|#121448009",
+                                               "201173303#|#201173303",
+                                               "50011978#|#50011978",
+                                               "50011977#|#50011977",
+                                               "50011992#|#50011992",
+                                               "201845606#|#201845606",
+                                               "201848908#|#201848908",
+                                               "50011996#|#50011996",
+                                               "121454013#|#121454013"
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "stdBrand":  [
+                                                              "18641319"
+                                                          ],
+                                             "price":  {
+                                                           "op":  "OPEN_OPEN"
+                                                       },
+                                             "channel":  [
+                                                             "16772#|#4"
+                                                         ],
+                                             "itemprice":  {
+                                                               "op":  "OPEN_OPEN"
+                                                           },
+                                             "frequency":  {
+                                                               "op":  "OPEN_OPEN"
+                                                           }
+                                         },
+                        "labelsFile":  "sources/156-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  157,
+                        "sourceCrowdName":  "Y26YTD眼霜CPB_护肤老品偏LJQ",
+                        "sourceCrowdId":  "78647421",
+                        "poolArrayIndex":  1,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_CATE_BHV"
+                                         ],
+                        "brandIds":  [
+                                         "18641319"
+                                     ],
+                        "behavior":  "18919#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20251231"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+                                               "201161605#|#201161605",
+                                               "201166702#|#201166702",
+                                               "125172008#|#125172008",
+                                               "121460005#|#121460005",
+                                               "122438001#|#122438001",
+                                               "201164006#|#201164006",
+                                               "121398020#|#121398020",
+                                               "201834201#|#201834201",
+                                               "50010813#|#50010813",
+                                               "201161714#|#201161714"
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "stdBrand":  [
+                                                              "18641319"
+                                                          ],
+                                             "price":  {
+                                                           "op":  "OPEN_OPEN"
+                                                       },
+                                             "channel":  [
+                                                             "16772#|#4"
+                                                         ],
+                                             "itemprice":  {
+                                                               "op":  "OPEN_OPEN"
+                                                           },
+                                             "frequency":  {
+                                                               "op":  "OPEN_OPEN"
+                                                           }
+                                         },
+                        "labelsFile":  "sources/157-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  157,
+                        "sourceCrowdName":  "Y26YTD眼霜CPB_护肤老品偏LJQ",
+                        "sourceCrowdId":  "78647421",
+                        "poolArrayIndex":  2,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_CATE_BHV"
+                                         ],
+                        "brandIds":  [
+                                         "18641319"
+                                     ],
+                        "behavior":  "18919#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20251231"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+                                               "50011993#|#50011993",
+                                               "201174001#|#201174001",
+                                               "50011997#|#50011997",
+                                               "121390006#|#121390006",
+                                               "121368010#|#121368010",
+                                               "50011991#|#50011991",
+                                               "50011980#|#50011980",
+                                               "201850303#|#201850303",
+                                               "121390007#|#121390007",
+                                               "50011990#|#50011990"
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "stdBrand":  [
+                                                              "18641319"
+                                                          ],
+                                             "price":  {
+                                                           "op":  "OPEN_OPEN"
+                                                       },
+                                             "channel":  [
+                                                             "16772#|#4"
+                                                         ],
+                                             "itemprice":  {
+                                                               "op":  "OPEN_OPEN"
+                                                           },
+                                             "frequency":  {
+                                                               "op":  "OPEN_OPEN"
+                                                           }
+                                         },
+                        "labelsFile":  "sources/157-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  157,
+                        "sourceCrowdName":  "Y26YTD眼霜CPB_护肤老品偏LJQ",
+                        "sourceCrowdId":  "78647421",
+                        "poolArrayIndex":  3,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_CATE_BHV"
+                                         ],
+                        "brandIds":  [
+                                         "18641319"
+                                     ],
+                        "behavior":  "18919#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20251231"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+                                               "121408009#|#121408009",
+                                               "121448009#|#121448009",
+                                               "201173303#|#201173303",
+                                               "50011978#|#50011978",
+                                               "50011977#|#50011977",
+                                               "50011992#|#50011992",
+                                               "201845606#|#201845606",
+                                               "201848908#|#201848908",
+                                               "50011996#|#50011996",
+                                               "121454013#|#121454013"
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "stdBrand":  [
+                                                              "18641319"
+                                                          ],
+                                             "price":  {
+                                                           "op":  "OPEN_OPEN"
+                                                       },
+                                             "channel":  [
+                                                             "16772#|#4"
+                                                         ],
+                                             "itemprice":  {
+                                                               "op":  "OPEN_OPEN"
+                                                           },
+                                             "frequency":  {
+                                                               "op":  "OPEN_OPEN"
+                                                           }
+                                         },
+                        "labelsFile":  "sources/157-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  159,
+                        "sourceCrowdName":  "Y26雅诗兰黛白金眼霜浏览",
+                        "sourceCrowdId":  "78646402",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_CATE_BHV"
+                                         ],
+                        "brandIds":  [
+                                         "20034"
+                                     ],
+                        "behavior":  "18930#|#CATE_PUBLIC_VIEWITEM",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+                                               "121484013#|#121484013"
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "stdBrand":  [
+                                                              "20034"
+                                                          ],
+                                             "channel":  [
+                                                             "16772#|#4"
+                                                         ],
+                                             "itemprice":  {
+                                                               "op":  "OPEN_CLOSE",
+                                                               "min":  250
+                                                           },
+                                             "title":  [
+                                                           "逆龄",
+                                                           "黑钻",
+                                                           "白月光"
+                                                       ]
+                                         },
+                        "labelsFile":  "sources/159-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  160,
+                        "sourceCrowdName":  "Y26雅诗6D眼霜浏览",
+                        "sourceCrowdId":  "78646390",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_CATE_BHV"
+                                         ],
+                        "brandIds":  [
+                                         "20034"
+                                     ],
+                        "behavior":  "18930#|#CATE_PUBLIC_VIEWITEM",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+                                               "121484013#|#121484013"
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "stdBrand":  [
+                                                              "20034"
+                                                          ],
+                                             "channel":  [
+                                                             "16772#|#4"
+                                                         ],
+                                             "itemprice":  {
+                                                               "op":  "OPEN_CLOSE",
+                                                               "min":  250
+                                                           },
+                                             "title":  [
+                                                           "6D"
+                                                       ]
+                                         },
+                        "labelsFile":  "sources/160-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  161,
+                        "sourceCrowdName":  "Y26雅诗小棕瓶眼霜浏览",
+                        "sourceCrowdId":  "78646368",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_CATE_BHV"
+                                         ],
+                        "brandIds":  [
+                                         "20034"
+                                     ],
+                        "behavior":  "18930#|#CATE_PUBLIC_VIEWITEM",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+                                               "121484013#|#121484013"
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "stdBrand":  [
+                                                              "20034"
+                                                          ],
+                                             "channel":  [
+                                                             "16772#|#4"
+                                                         ],
+                                             "itemprice":  {
+                                                               "op":  "OPEN_CLOSE",
+                                                               "min":  250
+                                                           },
+                                             "title":  [
+                                                           "小棕瓶"
+                                                       ]
+                                         },
+                        "labelsFile":  "sources/161-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  162,
+                        "sourceCrowdName":  "Y26兰蔻菁纯眼霜浏览",
+                        "sourceCrowdId":  "78646352",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_CATE_BHV"
+                                         ],
+                        "brandIds":  [
+                                         "20067"
+                                     ],
+                        "behavior":  "18930#|#CATE_PUBLIC_VIEWITEM",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+                                               "121484013#|#121484013"
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "stdBrand":  [
+                                                              "20067"
+                                                          ],
+                                             "channel":  [
+                                                             "16772#|#4"
+                                                         ],
+                                             "itemprice":  {
+                                                               "op":  "OPEN_CLOSE",
+                                                               "min":  250
+                                                           },
+                                             "title":  [
+                                                           "菁纯"
+                                                       ]
+                                         },
+                        "labelsFile":  "sources/162-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  163,
+                        "sourceCrowdName":  "Y26海蓝奇迹眼霜浏览",
+                        "sourceCrowdId":  "78646325",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_CATE_BHV"
+                                         ],
+                        "brandIds":  [
+                                         "20137"
+                                     ],
+                        "behavior":  "18930#|#CATE_PUBLIC_VIEWITEM",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+                                               "121484013#|#121484013"
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "stdBrand":  [
+                                                              "20137"
+                                                          ],
+                                             "channel":  [
+                                                             "16772#|#4"
+                                                         ],
+                                             "itemprice":  {
+                                                               "op":  "OPEN_CLOSE",
+                                                               "min":  250
+                                                           },
+                                             "title":  [
+                                                           "奇迹"
+                                                       ]
+                                         },
+                        "labelsFile":  "sources/163-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  164,
+                        "sourceCrowdName":  "Y26兰蔻眼霜测试",
+                        "sourceCrowdId":  "78646028",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_CATE_BHV"
+                                         ],
+                        "brandIds":  [
+                                         "20067"
+                                     ],
+                        "behavior":  "18930#|#CATE_PUBLIC_VIEWITEM",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+                                               "121484013#|#121484013"
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "stdBrand":  [
+                                                              "20067"
+                                                          ],
+                                             "channel":  [
+                                                             "16772#|#4"
+                                                         ],
+                                             "itemprice":  {
+                                                               "op":  "OPEN_CLOSE",
+                                                               "min":  1000
+                                                           },
+                                             "title":  null
+                                         },
+                        "labelsFile":  "sources/164-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  174,
+                        "sourceCrowdName":  "Y25雅诗兰黛白金眼霜购买",
+                        "sourceCrowdId":  "78627628",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_CATE_BHV"
+                                         ],
+                        "brandIds":  [
+                                         "20034"
+                                     ],
+                        "behavior":  "18919#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+                                               "121484013#|#121484013"
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "stdBrand":  [
+                                                              "20034"
+                                                          ],
+                                             "price":  {
+                                                           "op":  "OPEN_OPEN"
+                                                       },
+                                             "channel":  [
+                                                             "16772#|#4"
+                                                         ],
+                                             "itemprice":  {
+                                                               "op":  "OPEN_CLOSE",
+                                                               "min":  250
+                                                           },
+                                             "title":  [
+                                                           "逆龄",
+                                                           "黑钻",
+                                                           "白月光"
+                                                       ],
+                                             "frequency":  {
+                                                               "op":  "OPEN_OPEN"
+                                                           }
+                                         },
+                        "labelsFile":  "sources/174-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  175,
+                        "sourceCrowdName":  "Y26品牌4D眼霜购买公域",
+                        "sourceCrowdId":  "78626349",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_CATE_BHV"
+                                         ],
+                        "brandIds":  [
+                                         "18641319"
+                                     ],
+                        "behavior":  "18919#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+                                               "121484013#|#121484013"
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "stdBrand":  [
+                                                              "18641319"
+                                                          ],
+                                             "price":  {
+                                                           "op":  "OPEN_OPEN"
+                                                       },
+                                             "channel":  [
+                                                             "16772#|#4"
+                                                         ],
+                                             "itemprice":  {
+                                                               "op":  "OPEN_CLOSE",
+                                                               "min":  250
+                                                           },
+                                             "title":  [
+                                                           "眼霜"
+                                                       ],
+                                             "frequency":  {
+                                                               "op":  "OPEN_OPEN"
+                                                           }
+                                         },
+                        "labelsFile":  "sources/175-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  176,
+                        "sourceCrowdName":  "Y25品牌4D眼霜购买公域",
+                        "sourceCrowdId":  "78625438",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_CATE_BHV"
+                                         ],
+                        "brandIds":  [
+                                         "18641319"
+                                     ],
+                        "behavior":  "18919#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+                                               "121484013#|#121484013"
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "stdBrand":  [
+                                                              "18641319"
+                                                          ],
+                                             "price":  {
+                                                           "op":  "OPEN_OPEN"
+                                                       },
+                                             "channel":  [
+                                                             "16772#|#4"
+                                                         ],
+                                             "itemprice":  {
+                                                               "op":  "OPEN_CLOSE",
+                                                               "min":  250
+                                                           },
+                                             "title":  [
+                                                           "眼霜"
+                                                       ],
+                                             "frequency":  {
+                                                               "op":  "OPEN_OPEN"
+                                                           }
+                                         },
+                        "labelsFile":  "sources/176-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  207,
+                        "sourceCrowdName":  "Y26雅诗小棕瓶眼霜购买",
+                        "sourceCrowdId":  "78622124",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_CATE_BHV"
+                                         ],
+                        "brandIds":  [
+                                         "20034"
+                                     ],
+                        "behavior":  "18919#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+                                               "121484013#|#121484013"
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "stdBrand":  [
+                                                              "20034"
+                                                          ],
+                                             "price":  {
+                                                           "op":  "OPEN_OPEN"
+                                                       },
+                                             "channel":  [
+                                                             "16772#|#4"
+                                                         ],
+                                             "itemprice":  {
+                                                               "op":  "OPEN_CLOSE",
+                                                               "min":  250
+                                                           },
+                                             "title":  [
+                                                           "小棕瓶"
+                                                       ],
+                                             "frequency":  {
+                                                               "op":  "OPEN_OPEN"
+                                                           }
+                                         },
+                        "labelsFile":  "sources/207-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  208,
+                        "sourceCrowdName":  "Y26雅诗6D眼霜购买",
+                        "sourceCrowdId":  "78622123",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_CATE_BHV"
+                                         ],
+                        "brandIds":  [
+                                         "20034"
+                                     ],
+                        "behavior":  "18919#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+                                               "121484013#|#121484013"
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "stdBrand":  [
+                                                              "20034"
+                                                          ],
+                                             "price":  {
+                                                           "op":  "OPEN_OPEN"
+                                                       },
+                                             "channel":  [
+                                                             "16772#|#4"
+                                                         ],
+                                             "itemprice":  {
+                                                               "op":  "OPEN_CLOSE",
+                                                               "min":  250
+                                                           },
+                                             "title":  [
+                                                           "6D"
+                                                       ],
+                                             "frequency":  {
+                                                               "op":  "OPEN_OPEN"
+                                                           }
+                                         },
+                        "labelsFile":  "sources/208-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  209,
+                        "sourceCrowdName":  "Y26海蓝奇迹眼霜购买",
+                        "sourceCrowdId":  "78622122",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_CATE_BHV"
+                                         ],
+                        "brandIds":  [
+                                         "20137"
+                                     ],
+                        "behavior":  "18919#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+                                               "121484013#|#121484013"
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "stdBrand":  [
+                                                              "20137"
+                                                          ],
+                                             "price":  {
+                                                           "op":  "OPEN_OPEN"
+                                                       },
+                                             "channel":  [
+                                                             "16772#|#4"
+                                                         ],
+                                             "itemprice":  {
+                                                               "op":  "OPEN_CLOSE",
+                                                               "min":  250
+                                                           },
+                                             "title":  [
+                                                           "奇迹"
+                                                       ],
+                                             "frequency":  {
+                                                               "op":  "OPEN_OPEN"
+                                                           }
+                                         },
+                        "labelsFile":  "sources/209-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  210,
+                        "sourceCrowdName":  "Y25雅诗小棕瓶眼霜购买",
+                        "sourceCrowdId":  "78622121",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_CATE_BHV"
+                                         ],
+                        "brandIds":  [
+                                         "20034"
+                                     ],
+                        "behavior":  "18919#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+                                               "121484013#|#121484013"
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "stdBrand":  [
+                                                              "20034"
+                                                          ],
+                                             "price":  {
+                                                           "op":  "OPEN_OPEN"
+                                                       },
+                                             "channel":  [
+                                                             "16772#|#4"
+                                                         ],
+                                             "itemprice":  {
+                                                               "op":  "OPEN_CLOSE",
+                                                               "min":  250
+                                                           },
+                                             "title":  [
+                                                           "小棕瓶"
+                                                       ],
+                                             "frequency":  {
+                                                               "op":  "OPEN_OPEN"
+                                                           }
+                                         },
+                        "labelsFile":  "sources/210-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  211,
+                        "sourceCrowdName":  "Y25雅诗6D眼霜购买",
+                        "sourceCrowdId":  "78622120",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_CATE_BHV"
+                                         ],
+                        "brandIds":  [
+                                         "20034"
+                                     ],
+                        "behavior":  "18919#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+                                               "121484013#|#121484013"
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "stdBrand":  [
+                                                              "20034"
+                                                          ],
+                                             "price":  {
+                                                           "op":  "OPEN_OPEN"
+                                                       },
+                                             "channel":  [
+                                                             "16772#|#4"
+                                                         ],
+                                             "itemprice":  {
+                                                               "op":  "OPEN_CLOSE",
+                                                               "min":  250
+                                                           },
+                                             "title":  [
+                                                           "6D"
+                                                       ],
+                                             "frequency":  {
+                                                               "op":  "OPEN_OPEN"
+                                                           }
+                                         },
+                        "labelsFile":  "sources/211-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  212,
+                        "sourceCrowdName":  "Y25兰蔻菁纯眼霜购买",
+                        "sourceCrowdId":  "78622117",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_CATE_BHV"
+                                         ],
+                        "brandIds":  [
+                                         "20067"
+                                     ],
+                        "behavior":  "18919#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+                                               "121484013#|#121484013"
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "stdBrand":  [
+                                                              "20067"
+                                                          ],
+                                             "price":  {
+                                                           "op":  "OPEN_OPEN"
+                                                       },
+                                             "channel":  [
+                                                             "16772#|#4"
+                                                         ],
+                                             "itemprice":  {
+                                                               "op":  "OPEN_CLOSE",
+                                                               "min":  250
+                                                           },
+                                             "title":  [
+                                                           "菁纯"
+                                                       ],
+                                             "frequency":  {
+                                                               "op":  "OPEN_OPEN"
+                                                           }
+                                         },
+                        "labelsFile":  "sources/212-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  213,
+                        "sourceCrowdName":  "Y25海蓝奇迹眼霜购买",
+                        "sourceCrowdId":  "78622099",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_CATE_BHV"
+                                         ],
+                        "brandIds":  [
+                                         "20137"
+                                     ],
+                        "behavior":  "18919#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+                                               "121484013#|#121484013"
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "stdBrand":  [
+                                                              "20137"
+                                                          ],
+                                             "price":  {
+                                                           "op":  "OPEN_OPEN"
+                                                       },
+                                             "channel":  [
+                                                             "16772#|#4"
+                                                         ],
+                                             "itemprice":  {
+                                                               "op":  "OPEN_CLOSE",
+                                                               "min":  250
+                                                           },
+                                             "title":  [
+                                                           "奇迹"
+                                                       ],
+                                             "frequency":  {
+                                                               "op":  "OPEN_OPEN"
+                                                           }
+                                         },
+                        "labelsFile":  "sources/213-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  214,
+                        "sourceCrowdName":  "Y26兰蔻菁纯眼霜购买",
+                        "sourceCrowdId":  "78622088",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_CATE_BHV"
+                                         ],
+                        "brandIds":  [
+                                         "20067"
+                                     ],
+                        "behavior":  "18919#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+                                               "121484013#|#121484013"
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "stdBrand":  [
+                                                              "20067"
+                                                          ],
+                                             "price":  {
+                                                           "op":  "OPEN_OPEN"
+                                                       },
+                                             "channel":  [
+                                                             "16772#|#4"
+                                                         ],
+                                             "itemprice":  {
+                                                               "op":  "OPEN_CLOSE",
+                                                               "min":  250
+                                                           },
+                                             "title":  [
+                                                           "菁纯"
+                                                       ],
+                                             "frequency":  {
+                                                               "op":  "OPEN_OPEN"
+                                                           }
+                                         },
+                        "labelsFile":  "sources/214-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  215,
+                        "sourceCrowdName":  "Y26雅诗兰黛白金眼霜购买",
+                        "sourceCrowdId":  "78621928",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_CATE_BHV"
+                                         ],
+                        "brandIds":  [
+                                         "20034"
+                                     ],
+                        "behavior":  "18919#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+                                               "121484013#|#121484013"
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "stdBrand":  [
+                                                              "20034"
+                                                          ],
+                                             "price":  {
+                                                           "op":  "OPEN_OPEN"
+                                                       },
+                                             "channel":  [
+                                                             "16772#|#4"
+                                                         ],
+                                             "itemprice":  {
+                                                               "op":  "OPEN_CLOSE",
+                                                               "min":  250
+                                                           },
+                                             "title":  [
+                                                           "逆龄",
+                                                           "黑钻",
+                                                           "白月光"
+                                                       ],
+                                             "frequency":  {
+                                                               "op":  "OPEN_OPEN"
+                                                           }
+                                         },
+                        "labelsFile":  "sources/215-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  219,
+                        "sourceCrowdName":  "Y26其他达人汇总_海蓝奇迹",
+                        "sourceCrowdId":  "78621750",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "1017647513908"
+                                         },
+                        "labelsFile":  "sources/219-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  220,
+                        "sourceCrowdName":  "Y26其他达人汇总_雅诗白金",
+                        "sourceCrowdId":  "78621745",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "975602798036"
+                                         },
+                        "labelsFile":  "sources/220-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  220,
+                        "sourceCrowdName":  "Y26其他达人汇总_雅诗白金",
+                        "sourceCrowdId":  "78621745",
+                        "poolArrayIndex":  1,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "992668580926"
+                                         },
+                        "labelsFile":  "sources/220-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  220,
+                        "sourceCrowdName":  "Y26其他达人汇总_雅诗白金",
+                        "sourceCrowdId":  "78621745",
+                        "poolArrayIndex":  2,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "1008193101458"
+                                         },
+                        "labelsFile":  "sources/220-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  220,
+                        "sourceCrowdName":  "Y26其他达人汇总_雅诗白金",
+                        "sourceCrowdId":  "78621745",
+                        "poolArrayIndex":  3,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "1053891530495"
+                                         },
+                        "labelsFile":  "sources/220-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  220,
+                        "sourceCrowdName":  "Y26其他达人汇总_雅诗白金",
+                        "sourceCrowdId":  "78621745",
+                        "poolArrayIndex":  4,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "1080531415807"
+                                         },
+                        "labelsFile":  "sources/220-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  220,
+                        "sourceCrowdName":  "Y26其他达人汇总_雅诗白金",
+                        "sourceCrowdId":  "78621745",
+                        "poolArrayIndex":  5,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "1081409934319"
+                                         },
+                        "labelsFile":  "sources/220-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  221,
+                        "sourceCrowdName":  "Y26其他达人汇总_雅诗6D",
+                        "sourceCrowdId":  "78621741",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "971603192277"
+                                         },
+                        "labelsFile":  "sources/221-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  221,
+                        "sourceCrowdName":  "Y26其他达人汇总_雅诗6D",
+                        "sourceCrowdId":  "78621741",
+                        "poolArrayIndex":  1,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "1079562172087"
+                                         },
+                        "labelsFile":  "sources/221-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  222,
+                        "sourceCrowdName":  "Y26其他达人汇总_小棕瓶",
+                        "sourceCrowdId":  "78621739",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "941214333661"
+                                         },
+                        "labelsFile":  "sources/222-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  222,
+                        "sourceCrowdName":  "Y26其他达人汇总_小棕瓶",
+                        "sourceCrowdId":  "78621739",
+                        "poolArrayIndex":  1,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "984998893546"
+                                         },
+                        "labelsFile":  "sources/222-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  222,
+                        "sourceCrowdName":  "Y26其他达人汇总_小棕瓶",
+                        "sourceCrowdId":  "78621739",
+                        "poolArrayIndex":  2,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "985676028560"
+                                         },
+                        "labelsFile":  "sources/222-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  222,
+                        "sourceCrowdName":  "Y26其他达人汇总_小棕瓶",
+                        "sourceCrowdId":  "78621739",
+                        "poolArrayIndex":  3,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "1053103959543"
+                                         },
+                        "labelsFile":  "sources/222-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  222,
+                        "sourceCrowdName":  "Y26其他达人汇总_小棕瓶",
+                        "sourceCrowdId":  "78621739",
+                        "poolArrayIndex":  4,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "1055395177047"
+                                         },
+                        "labelsFile":  "sources/222-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  222,
+                        "sourceCrowdName":  "Y26其他达人汇总_小棕瓶",
+                        "sourceCrowdId":  "78621739",
+                        "poolArrayIndex":  5,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "1055598910859"
+                                         },
+                        "labelsFile":  "sources/222-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  223,
+                        "sourceCrowdName":  "Y26其他达人汇总_兰蔻菁纯",
+                        "sourceCrowdId":  "78621690",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "1018694355190"
+                                         },
+                        "labelsFile":  "sources/223-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  224,
+                        "sourceCrowdName":  "Y25其他达人汇总_雅诗白金",
+                        "sourceCrowdId":  "78621688",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "926380978495"
+                                         },
+                        "labelsFile":  "sources/224-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  225,
+                        "sourceCrowdName":  "Y25其他达人汇总_雅诗6D",
+                        "sourceCrowdId":  "78621684",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "864332726955"
+                                         },
+                        "labelsFile":  "sources/225-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  225,
+                        "sourceCrowdName":  "Y25其他达人汇总_雅诗6D",
+                        "sourceCrowdId":  "78621684",
+                        "poolArrayIndex":  1,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "868412811856"
+                                         },
+                        "labelsFile":  "sources/225-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  225,
+                        "sourceCrowdName":  "Y25其他达人汇总_雅诗6D",
+                        "sourceCrowdId":  "78621684",
+                        "poolArrayIndex":  2,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "914838871559"
+                                         },
+                        "labelsFile":  "sources/225-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  226,
+                        "sourceCrowdName":  "Y25其他达人汇总_小棕瓶",
+                        "sourceCrowdId":  "78621681",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "735009198137"
+                                         },
+                        "labelsFile":  "sources/226-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  226,
+                        "sourceCrowdName":  "Y25其他达人汇总_小棕瓶",
+                        "sourceCrowdId":  "78621681",
+                        "poolArrayIndex":  1,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "766755653855"
+                                         },
+                        "labelsFile":  "sources/226-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  226,
+                        "sourceCrowdName":  "Y25其他达人汇总_小棕瓶",
+                        "sourceCrowdId":  "78621681",
+                        "poolArrayIndex":  2,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "821067186561"
+                                         },
+                        "labelsFile":  "sources/226-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  226,
+                        "sourceCrowdName":  "Y25其他达人汇总_小棕瓶",
+                        "sourceCrowdId":  "78621681",
+                        "poolArrayIndex":  3,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "834587295831"
+                                         },
+                        "labelsFile":  "sources/226-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  226,
+                        "sourceCrowdName":  "Y25其他达人汇总_小棕瓶",
+                        "sourceCrowdId":  "78621681",
+                        "poolArrayIndex":  4,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "834770214426"
+                                         },
+                        "labelsFile":  "sources/226-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  226,
+                        "sourceCrowdName":  "Y25其他达人汇总_小棕瓶",
+                        "sourceCrowdId":  "78621681",
+                        "poolArrayIndex":  5,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "835041421261"
+                                         },
+                        "labelsFile":  "sources/226-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  226,
+                        "sourceCrowdName":  "Y25其他达人汇总_小棕瓶",
+                        "sourceCrowdId":  "78621681",
+                        "poolArrayIndex":  6,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "835210460714"
+                                         },
+                        "labelsFile":  "sources/226-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  226,
+                        "sourceCrowdName":  "Y25其他达人汇总_小棕瓶",
+                        "sourceCrowdId":  "78621681",
+                        "poolArrayIndex":  7,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "844077811019"
+                                         },
+                        "labelsFile":  "sources/226-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  226,
+                        "sourceCrowdName":  "Y25其他达人汇总_小棕瓶",
+                        "sourceCrowdId":  "78621681",
+                        "poolArrayIndex":  8,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "859981541341"
+                                         },
+                        "labelsFile":  "sources/226-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  226,
+                        "sourceCrowdName":  "Y25其他达人汇总_小棕瓶",
+                        "sourceCrowdId":  "78621681",
+                        "poolArrayIndex":  9,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "860341461452"
+                                         },
+                        "labelsFile":  "sources/226-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  226,
+                        "sourceCrowdName":  "Y25其他达人汇总_小棕瓶",
+                        "sourceCrowdId":  "78621681",
+                        "poolArrayIndex":  10,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "864161851426"
+                                         },
+                        "labelsFile":  "sources/226-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  226,
+                        "sourceCrowdName":  "Y25其他达人汇总_小棕瓶",
+                        "sourceCrowdId":  "78621681",
+                        "poolArrayIndex":  11,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "889372522166"
+                                         },
+                        "labelsFile":  "sources/226-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  226,
+                        "sourceCrowdName":  "Y25其他达人汇总_小棕瓶",
+                        "sourceCrowdId":  "78621681",
+                        "poolArrayIndex":  12,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "890131480094"
+                                         },
+                        "labelsFile":  "sources/226-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  226,
+                        "sourceCrowdName":  "Y25其他达人汇总_小棕瓶",
+                        "sourceCrowdId":  "78621681",
+                        "poolArrayIndex":  13,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "918516140667"
+                                         },
+                        "labelsFile":  "sources/226-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  226,
+                        "sourceCrowdName":  "Y25其他达人汇总_小棕瓶",
+                        "sourceCrowdId":  "78621681",
+                        "poolArrayIndex":  14,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "919458875773"
+                                         },
+                        "labelsFile":  "sources/226-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  226,
+                        "sourceCrowdName":  "Y25其他达人汇总_小棕瓶",
+                        "sourceCrowdId":  "78621681",
+                        "poolArrayIndex":  15,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "941214333661"
+                                         },
+                        "labelsFile":  "sources/226-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  227,
+                        "sourceCrowdName":  "Y26LJQ_海蓝奇迹",
+                        "sourceCrowdId":  "78621675",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "1019667650876"
+                                         },
+                        "labelsFile":  "sources/227-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  228,
+                        "sourceCrowdName":  "Y26LJQ_雅诗6D",
+                        "sourceCrowdId":  "78621671",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "1016594588798"
+                                         },
+                        "labelsFile":  "sources/228-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  228,
+                        "sourceCrowdName":  "Y26LJQ_雅诗6D",
+                        "sourceCrowdId":  "78621671",
+                        "poolArrayIndex":  1,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "1043050743908"
+                                         },
+                        "labelsFile":  "sources/228-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  228,
+                        "sourceCrowdName":  "Y26LJQ_雅诗6D",
+                        "sourceCrowdId":  "78621671",
+                        "poolArrayIndex":  2,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "1079743856446"
+                                         },
+                        "labelsFile":  "sources/228-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  229,
+                        "sourceCrowdName":  "Y26LJQ_小棕瓶",
+                        "sourceCrowdId":  "78621668",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "1006708765257"
+                                         },
+                        "labelsFile":  "sources/229-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  229,
+                        "sourceCrowdName":  "Y26LJQ_小棕瓶",
+                        "sourceCrowdId":  "78621668",
+                        "poolArrayIndex":  1,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "1014945026045"
+                                         },
+                        "labelsFile":  "sources/229-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  229,
+                        "sourceCrowdName":  "Y26LJQ_小棕瓶",
+                        "sourceCrowdId":  "78621668",
+                        "poolArrayIndex":  2,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "1044712549499"
+                                         },
+                        "labelsFile":  "sources/229-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  229,
+                        "sourceCrowdName":  "Y26LJQ_小棕瓶",
+                        "sourceCrowdId":  "78621668",
+                        "poolArrayIndex":  3,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "1079840128204"
+                                         },
+                        "labelsFile":  "sources/229-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  230,
+                        "sourceCrowdName":  "Y26LJQ_兰蔻菁纯",
+                        "sourceCrowdId":  "78621663",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "976973138350"
+                                         },
+                        "labelsFile":  "sources/230-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  230,
+                        "sourceCrowdName":  "Y26LJQ_兰蔻菁纯",
+                        "sourceCrowdId":  "78621663",
+                        "poolArrayIndex":  1,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "1018914054446"
+                                         },
+                        "labelsFile":  "sources/230-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  230,
+                        "sourceCrowdName":  "Y26LJQ_兰蔻菁纯",
+                        "sourceCrowdId":  "78621663",
+                        "poolArrayIndex":  2,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "1044676994149"
+                                         },
+                        "labelsFile":  "sources/230-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  230,
+                        "sourceCrowdName":  "Y26LJQ_兰蔻菁纯",
+                        "sourceCrowdId":  "78621663",
+                        "poolArrayIndex":  3,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20260101",
+                                          "to":  "20260930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "1083979527034"
+                                         },
+                        "labelsFile":  "sources/230-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  231,
+                        "sourceCrowdName":  "Y25LJQ_雅诗白金",
+                        "sourceCrowdId":  "78621658",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "880989358564"
+                                         },
+                        "labelsFile":  "sources/231-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  231,
+                        "sourceCrowdName":  "Y25LJQ_雅诗白金",
+                        "sourceCrowdId":  "78621658",
+                        "poolArrayIndex":  1,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "911618474026"
+                                         },
+                        "labelsFile":  "sources/231-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  232,
+                        "sourceCrowdName":  "Y25LJQ_雅诗6D",
+                        "sourceCrowdId":  "78621657",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "855246066242"
+                                         },
+                        "labelsFile":  "sources/232-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  233,
+                        "sourceCrowdName":  "Y25LJQ_小棕瓶",
+                        "sourceCrowdId":  "78621639",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "860068598872"
+                                         },
+                        "labelsFile":  "sources/233-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  233,
+                        "sourceCrowdName":  "Y25LJQ_小棕瓶",
+                        "sourceCrowdId":  "78621639",
+                        "poolArrayIndex":  1,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "881671528917"
+                                         },
+                        "labelsFile":  "sources/233-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  233,
+                        "sourceCrowdName":  "Y25LJQ_小棕瓶",
+                        "sourceCrowdId":  "78621639",
+                        "poolArrayIndex":  2,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "912537812641"
+                                         },
+                        "labelsFile":  "sources/233-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  233,
+                        "sourceCrowdName":  "Y25LJQ_小棕瓶",
+                        "sourceCrowdId":  "78621639",
+                        "poolArrayIndex":  3,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "938083416829"
+                                         },
+                        "labelsFile":  "sources/233-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  234,
+                        "sourceCrowdName":  "Y25LJQ_兰蔻菁纯",
+                        "sourceCrowdId":  "78621615",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "837873309653"
+                                         },
+                        "labelsFile":  "sources/234-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  234,
+                        "sourceCrowdName":  "Y25LJQ_兰蔻菁纯",
+                        "sourceCrowdId":  "78621615",
+                        "poolArrayIndex":  1,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "862824620816"
+                                         },
+                        "labelsFile":  "sources/234-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  234,
+                        "sourceCrowdName":  "Y25LJQ_兰蔻菁纯",
+                        "sourceCrowdId":  "78621615",
+                        "poolArrayIndex":  2,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "886578137826"
+                                         },
+                        "labelsFile":  "sources/234-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  234,
+                        "sourceCrowdName":  "Y25LJQ_兰蔻菁纯",
+                        "sourceCrowdId":  "78621615",
+                        "poolArrayIndex":  3,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "917486966162"
+                                         },
+                        "labelsFile":  "sources/234-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  234,
+                        "sourceCrowdName":  "Y25LJQ_兰蔻菁纯",
+                        "sourceCrowdId":  "78621615",
+                        "poolArrayIndex":  4,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_ITEM_BHV"
+                                         ],
+                        "brandIds":  [
+
+                                     ],
+                        "behavior":  "19299#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20250930"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "item":  "918369124891"
+                                         },
+                        "labelsFile":  "sources/234-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  235,
+                        "sourceCrowdName":  "Y26购买前时间窗兰蔻品牌老客",
+                        "sourceCrowdId":  "78621252",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_CATE_BHV"
+                                         ],
+                        "brandIds":  [
+                                         "20067"
+                                     ],
+                        "behavior":  "18919#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20251231"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+                                               "121408009#|#121408009",
+                                               "121448009#|#121448009",
+                                               "201173303#|#201173303",
+                                               "50011978#|#50011978",
+                                               "50011977#|#50011977",
+                                               "50011992#|#50011992",
+                                               "201845606#|#201845606",
+                                               "201848908#|#201848908",
+                                               "50011996#|#50011996",
+                                               "121454013#|#121454013"
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "stdBrand":  [
+                                                              "20067"
+                                                          ],
+                                             "price":  {
+                                                           "op":  "OPEN_OPEN"
+                                                       },
+                                             "channel":  [
+                                                             "16772#|#4"
+                                                         ],
+                                             "itemprice":  {
+                                                               "op":  "OPEN_CLOSE",
+                                                               "min":  250
+                                                           },
+                                             "frequency":  {
+                                                               "op":  "OPEN_OPEN"
+                                                           }
+                                         },
+                        "labelsFile":  "sources/235-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  235,
+                        "sourceCrowdName":  "Y26购买前时间窗兰蔻品牌老客",
+                        "sourceCrowdId":  "78621252",
+                        "poolArrayIndex":  1,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_CATE_BHV"
+                                         ],
+                        "brandIds":  [
+                                         "20067"
+                                     ],
+                        "behavior":  "18919#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20251231"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+                                               "50011993#|#50011993",
+                                               "201174001#|#201174001",
+                                               "50011997#|#50011997",
+                                               "121390006#|#121390006",
+                                               "121368010#|#121368010",
+                                               "50011991#|#50011991",
+                                               "50011980#|#50011980",
+                                               "201850303#|#201850303",
+                                               "121390007#|#121390007",
+                                               "50011990#|#50011990"
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "stdBrand":  [
+                                                              "20067"
+                                                          ],
+                                             "price":  {
+                                                           "op":  "OPEN_OPEN"
+                                                       },
+                                             "channel":  [
+                                                             "16772#|#4"
+                                                         ],
+                                             "itemprice":  {
+                                                               "op":  "OPEN_CLOSE",
+                                                               "min":  250
+                                                           },
+                                             "frequency":  {
+                                                               "op":  "OPEN_OPEN"
+                                                           }
+                                         },
+                        "labelsFile":  "sources/235-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  235,
+                        "sourceCrowdName":  "Y26购买前时间窗兰蔻品牌老客",
+                        "sourceCrowdId":  "78621252",
+                        "poolArrayIndex":  2,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_CATE_BHV"
+                                         ],
+                        "brandIds":  [
+                                         "20067"
+                                     ],
+                        "behavior":  "18919#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20251231"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+                                               "201161605#|#201161605",
+                                               "201166702#|#201166702",
+                                               "125172008#|#125172008",
+                                               "121460005#|#121460005",
+                                               "122438001#|#122438001",
+                                               "201164006#|#201164006",
+                                               "121398020#|#121398020",
+                                               "201834201#|#201834201",
+                                               "50010813#|#50010813",
+                                               "201161714#|#201161714"
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "stdBrand":  [
+                                                              "20067"
+                                                          ],
+                                             "price":  {
+                                                           "op":  "OPEN_OPEN"
+                                                       },
+                                             "channel":  [
+                                                             "16772#|#4"
+                                                         ],
+                                             "itemprice":  {
+                                                               "op":  "OPEN_CLOSE",
+                                                               "min":  250
+                                                           },
+                                             "frequency":  {
+                                                               "op":  "OPEN_OPEN"
+                                                           }
+                                         },
+                        "labelsFile":  "sources/235-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  236,
+                        "sourceCrowdName":  "Y26购买前时间窗海蓝之谜品牌老客",
+                        "sourceCrowdId":  "78621247",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_CATE_BHV"
+                                         ],
+                        "brandIds":  [
+                                         "20137"
+                                     ],
+                        "behavior":  "18919#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20251231"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+                                               "121408009#|#121408009",
+                                               "121448009#|#121448009",
+                                               "201173303#|#201173303",
+                                               "50011978#|#50011978",
+                                               "50011977#|#50011977",
+                                               "50011992#|#50011992",
+                                               "201845606#|#201845606",
+                                               "201848908#|#201848908",
+                                               "50011996#|#50011996",
+                                               "121454013#|#121454013"
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "stdBrand":  [
+                                                              "20137"
+                                                          ],
+                                             "price":  {
+                                                           "op":  "OPEN_OPEN"
+                                                       },
+                                             "channel":  [
+                                                             "16772#|#4"
+                                                         ],
+                                             "itemprice":  {
+                                                               "op":  "OPEN_CLOSE",
+                                                               "min":  250
+                                                           },
+                                             "frequency":  {
+                                                               "op":  "OPEN_OPEN"
+                                                           }
+                                         },
+                        "labelsFile":  "sources/236-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  236,
+                        "sourceCrowdName":  "Y26购买前时间窗海蓝之谜品牌老客",
+                        "sourceCrowdId":  "78621247",
+                        "poolArrayIndex":  1,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_CATE_BHV"
+                                         ],
+                        "brandIds":  [
+                                         "20137"
+                                     ],
+                        "behavior":  "18919#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20251231"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+                                               "50011993#|#50011993",
+                                               "201174001#|#201174001",
+                                               "50011997#|#50011997",
+                                               "121390006#|#121390006",
+                                               "121368010#|#121368010",
+                                               "50011991#|#50011991",
+                                               "50011980#|#50011980",
+                                               "201850303#|#201850303",
+                                               "121390007#|#121390007",
+                                               "50011990#|#50011990"
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "stdBrand":  [
+                                                              "20137"
+                                                          ],
+                                             "price":  {
+                                                           "op":  "OPEN_OPEN"
+                                                       },
+                                             "channel":  [
+                                                             "16772#|#4"
+                                                         ],
+                                             "itemprice":  {
+                                                               "op":  "OPEN_CLOSE",
+                                                               "min":  250
+                                                           },
+                                             "frequency":  {
+                                                               "op":  "OPEN_OPEN"
+                                                           }
+                                         },
+                        "labelsFile":  "sources/236-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  236,
+                        "sourceCrowdName":  "Y26购买前时间窗海蓝之谜品牌老客",
+                        "sourceCrowdId":  "78621247",
+                        "poolArrayIndex":  2,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_CATE_BHV"
+                                         ],
+                        "brandIds":  [
+                                         "20137"
+                                     ],
+                        "behavior":  "18919#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20251231"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+                                               "201161605#|#201161605",
+                                               "201166702#|#201166702",
+                                               "125172008#|#125172008",
+                                               "121460005#|#121460005",
+                                               "122438001#|#122438001",
+                                               "201164006#|#201164006",
+                                               "121398020#|#121398020",
+                                               "201834201#|#201834201",
+                                               "50010813#|#50010813",
+                                               "201161714#|#201161714"
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "stdBrand":  [
+                                                              "20137"
+                                                          ],
+                                             "price":  {
+                                                           "op":  "OPEN_OPEN"
+                                                       },
+                                             "channel":  [
+                                                             "16772#|#4"
+                                                         ],
+                                             "itemprice":  {
+                                                               "op":  "OPEN_CLOSE",
+                                                               "min":  250
+                                                           },
+                                             "frequency":  {
+                                                               "op":  "OPEN_OPEN"
+                                                           }
+                                         },
+                        "labelsFile":  "sources/236-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  238,
+                        "sourceCrowdName":  "Y26购买前时间窗雅诗兰黛品牌老客",
+                        "sourceCrowdId":  "78621031",
+                        "poolArrayIndex":  0,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_CATE_BHV"
+                                         ],
+                        "brandIds":  [
+                                         "20034"
+                                     ],
+                        "behavior":  "18919#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20251231"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+                                               "121408009#|#121408009",
+                                               "121448009#|#121448009",
+                                               "201173303#|#201173303",
+                                               "50011978#|#50011978",
+                                               "50011977#|#50011977",
+                                               "50011992#|#50011992",
+                                               "201845606#|#201845606",
+                                               "201848908#|#201848908",
+                                               "50011996#|#50011996",
+                                               "121454013#|#121454013"
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "stdBrand":  [
+                                                              "20034"
+                                                          ],
+                                             "price":  {
+                                                           "op":  "OPEN_OPEN"
+                                                       },
+                                             "channel":  [
+                                                             "16772#|#4"
+                                                         ],
+                                             "itemprice":  {
+                                                               "op":  "OPEN_CLOSE",
+                                                               "min":  250
+                                                           },
+                                             "frequency":  {
+                                                               "op":  "OPEN_OPEN"
+                                                           }
+                                         },
+                        "labelsFile":  "sources/238-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  238,
+                        "sourceCrowdName":  "Y26购买前时间窗雅诗兰黛品牌老客",
+                        "sourceCrowdId":  "78621031",
+                        "poolArrayIndex":  1,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_CATE_BHV"
+                                         ],
+                        "brandIds":  [
+                                         "20034"
+                                     ],
+                        "behavior":  "18919#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20251231"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+                                               "50011993#|#50011993",
+                                               "201174001#|#201174001",
+                                               "50011997#|#50011997",
+                                               "121390006#|#121390006",
+                                               "121368010#|#121368010",
+                                               "50011991#|#50011991",
+                                               "50011980#|#50011980",
+                                               "201850303#|#201850303",
+                                               "121390007#|#121390007",
+                                               "50011990#|#50011990"
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "stdBrand":  [
+                                                              "20034"
+                                                          ],
+                                             "price":  {
+                                                           "op":  "OPEN_OPEN"
+                                                       },
+                                             "channel":  [
+                                                             "16772#|#4"
+                                                         ],
+                                             "itemprice":  {
+                                                               "op":  "OPEN_CLOSE",
+                                                               "min":  250
+                                                           },
+                                             "frequency":  {
+                                                               "op":  "OPEN_OPEN"
+                                                           }
+                                         },
+                        "labelsFile":  "sources/238-labels.txt"
+                    },
+                    {
+                        "sourceIndex":  238,
+                        "sourceCrowdName":  "Y26购买前时间窗雅诗兰黛品牌老客",
+                        "sourceCrowdId":  "78621031",
+                        "poolArrayIndex":  2,
+                        "selectionLv1":  [
+                                             "COMMON_TOUCH",
+                                             "PUBLIC_CATE_BHV"
+                                         ],
+                        "brandIds":  [
+                                         "20034"
+                                     ],
+                        "behavior":  "18919#|#CATE_PUBLIC_PAY",
+                        "dateType":  "ABSOLUTE_DATE_RANGE",
+                        "dateValue":  {
+                                          "from":  "20250101",
+                                          "to":  "20251231"
+                                      },
+                        "category":  "",
+                        "leafCategories":  [
+                                               "201161605#|#201161605",
+                                               "201166702#|#201166702",
+                                               "125172008#|#125172008",
+                                               "121460005#|#121460005",
+                                               "122438001#|#122438001",
+                                               "201164006#|#201164006",
+                                               "121398020#|#121398020",
+                                               "201834201#|#201834201",
+                                               "50010813#|#50010813",
+                                               "201161714#|#201161714"
+                                           ],
+                        "itemIds":  [
+
+                                    ],
+                        "extraFilters":  {
+                                             "stdBrand":  [
+                                                              "20034"
+                                                          ],
+                                             "price":  {
+                                                           "op":  "OPEN_OPEN"
+                                                       },
+                                             "channel":  [
+                                                             "16772#|#4"
+                                                         ],
+                                             "itemprice":  {
+                                                               "op":  "OPEN_CLOSE",
+                                                               "min":  250
+                                                           },
+                                             "frequency":  {
+                                                               "op":  "OPEN_OPEN"
+                                                           }
+                                         },
+                        "labelsFile":  "sources/238-labels.txt"
+                    }
+                ]
+}

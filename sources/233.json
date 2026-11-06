@@ -1,0 +1,114 @@
+{
+	"crowdName": "Y25LJQ_小棕瓶_副本",
+	"list": [
+		{
+			"op": null,
+			"lv2MetadataIdMap": null,
+			"extra": {
+				"status": "NORMAL"
+			},
+			"index": null,
+			"selectionLv2": null,
+			"selectionLv3": {
+				"dateValue": {
+					"from": "20250101",
+					"to": "20250930"
+				},
+				"bhv": [
+					"19299#|#CATE_PUBLIC_PAY"
+				],
+				"dateType": "ABSOLUTE_DATE_RANGE",
+				"extraFilters": {
+					"item": "860068598872"
+				}
+			},
+			"selectionLv1": [
+				"COMMON_TOUCH",
+				"PUBLIC_ITEM_BHV"
+			],
+			"fromPoolId": 0
+		},
+		{
+			"op": null,
+			"lv2MetadataIdMap": null,
+			"extra": {
+				"status": "NORMAL"
+			},
+			"index": null,
+			"selectionLv2": null,
+			"selectionLv3": {
+				"dateValue": {
+					"from": "20250101",
+					"to": "20250930"
+				},
+				"bhv": [
+					"19299#|#CATE_PUBLIC_PAY"
+				],
+				"dateType": "ABSOLUTE_DATE_RANGE",
+				"extraFilters": {
+					"item": "881671528917"
+				}
+			},
+			"selectionLv1": [
+				"COMMON_TOUCH",
+				"PUBLIC_ITEM_BHV"
+			],
+			"fromPoolId": 0
+		},
+		{
+			"op": null,
+			"lv2MetadataIdMap": null,
+			"extra": {
+				"status": "NORMAL"
+			},
+			"index": null,
+			"selectionLv2": null,
+			"selectionLv3": {
+				"dateValue": {
+					"from": "20250101",
+					"to": "20250930"
+				},
+				"bhv": [
+					"19299#|#CATE_PUBLIC_PAY"
+				],
+				"dateType": "ABSOLUTE_DATE_RANGE",
+				"extraFilters": {
+					"item": "912537812641"
+				}
+			},
+			"selectionLv1": [
+				"COMMON_TOUCH",
+				"PUBLIC_ITEM_BHV"
+			],
+			"fromPoolId": 0
+		},
+		{
+			"op": null,
+			"lv2MetadataIdMap": null,
+			"extra": {
+				"status": "NORMAL"
+			},
+			"index": null,
+			"selectionLv2": null,
+			"selectionLv3": {
+				"dateValue": {
+					"from": "20250101",
+					"to": "20250930"
+				},
+				"bhv": [
+					"19299#|#CATE_PUBLIC_PAY"
+				],
+				"dateType": "ABSOLUTE_DATE_RANGE",
+				"extraFilters": {
+					"item": "938083416829"
+				}
+			},
+			"selectionLv1": [
+				"COMMON_TOUCH",
+				"PUBLIC_ITEM_BHV"
+			],
+			"fromPoolId": 0
+		}
+	],
+	"compute": "(0u1u2u3)"
+}

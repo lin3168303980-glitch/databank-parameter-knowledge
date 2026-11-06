@@ -1,0 +1,54 @@
+{
+	"crowdName": "Y25兰蔻菁纯眼霜购买_副本",
+	"list": [
+		{
+			"op": null,
+			"lv2MetadataIdMap": null,
+			"extra": {
+				"status": "NORMAL"
+			},
+			"index": null,
+			"selectionLv2": null,
+			"selectionLv3": {
+				"dateValue": {
+					"from": "20250101",
+					"to": "20250930"
+				},
+				"bhv": [
+					"18919#|#CATE_PUBLIC_PAY"
+				],
+				"dateType": "ABSOLUTE_DATE_RANGE",
+				"leafCates": [
+					"121484013#|#121484013"
+				],
+				"extraFilters": {
+					"stdBrand": [
+						"20067"
+					],
+					"price": {
+						"op": "OPEN_OPEN"
+					},
+					"channel": [
+						"16772#|#4"
+					],
+					"itemprice": {
+						"op": "OPEN_CLOSE",
+						"min": 250
+					},
+					"title": [
+						"菁纯"
+					],
+					"frequency": {
+						"op": "OPEN_OPEN"
+					}
+				}
+			},
+			"selectionLv1": [
+				"COMMON_TOUCH",
+				"PUBLIC_CATE_BHV"
+			],
+			"fromPoolId": 0
+		}
+	],
+	"compute": "(0)"
+}

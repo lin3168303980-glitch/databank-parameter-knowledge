@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "1.0.0",
+  "corrections": [
+    {
+      "brandName": "YSL/圣罗兰",
+      "brandId": "20112",
+      "status": "source-confirmed",
+      "source": "sources/brand-id-master.tsv",
+      "note": "Do not use 48830 for YSL. The source master maps 48830 to CARSLAN/卡姿兰."
+    },
+    {
+      "brandName": "CARSLAN/卡姿兰",
+      "brandId": "48830",
+      "status": "source-confirmed",
+      "source": "sources/brand-id-master.tsv",
+      "note": "This corrects the earlier mistaken association of 48830 with YSL."
+    }
+  ]
+}

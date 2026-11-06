@@ -1,0 +1,168 @@
+{
+	"crowdName": "Y26其他达人汇总_雅诗白金_副本",
+	"list": [
+		{
+			"op": null,
+			"lv2MetadataIdMap": null,
+			"extra": {
+				"status": "NORMAL"
+			},
+			"index": null,
+			"selectionLv2": null,
+			"selectionLv3": {
+				"dateValue": {
+					"from": "20260101",
+					"to": "20260930"
+				},
+				"bhv": [
+					"19299#|#CATE_PUBLIC_PAY"
+				],
+				"dateType": "ABSOLUTE_DATE_RANGE",
+				"extraFilters": {
+					"item": "975602798036"
+				}
+			},
+			"selectionLv1": [
+				"COMMON_TOUCH",
+				"PUBLIC_ITEM_BHV"
+			],
+			"fromPoolId": 0
+		},
+		{
+			"op": null,
+			"lv2MetadataIdMap": null,
+			"extra": {
+				"status": "NORMAL"
+			},
+			"index": null,
+			"selectionLv2": null,
+			"selectionLv3": {
+				"dateValue": {
+					"from": "20260101",
+					"to": "20260930"
+				},
+				"bhv": [
+					"19299#|#CATE_PUBLIC_PAY"
+				],
+				"dateType": "ABSOLUTE_DATE_RANGE",
+				"extraFilters": {
+					"item": "992668580926"
+				}
+			},
+			"selectionLv1": [
+				"COMMON_TOUCH",
+				"PUBLIC_ITEM_BHV"
+			],
+			"fromPoolId": 0
+		},
+		{
+			"op": null,
+			"lv2MetadataIdMap": null,
+			"extra": {
+				"status": "NORMAL"
+			},
+			"index": null,
+			"selectionLv2": null,
+			"selectionLv3": {
+				"dateValue": {
+					"from": "20260101",
+					"to": "20260930"
+				},
+				"bhv": [
+					"19299#|#CATE_PUBLIC_PAY"
+				],
+				"dateType": "ABSOLUTE_DATE_RANGE",
+				"extraFilters": {
+					"item": "1008193101458"
+				}
+			},
+			"selectionLv1": [
+				"COMMON_TOUCH",
+				"PUBLIC_ITEM_BHV"
+			],
+			"fromPoolId": 0
+		},
+		{
+			"op": null,
+			"lv2MetadataIdMap": null,
+			"extra": {
+				"status": "NORMAL"
+			},
+			"index": null,
+			"selectionLv2": null,
+			"selectionLv3": {
+				"dateValue": {
+					"from": "20260101",
+					"to": "20260930"
+				},
+				"bhv": [
+					"19299#|#CATE_PUBLIC_PAY"
+				],
+				"dateType": "ABSOLUTE_DATE_RANGE",
+				"extraFilters": {
+					"item": "1053891530495"
+				}
+			},
+			"selectionLv1": [
+				"COMMON_TOUCH",
+				"PUBLIC_ITEM_BHV"
+			],
+			"fromPoolId": 0
+		},
+		{
+			"op": null,
+			"lv2MetadataIdMap": null,
+			"extra": {
+				"status": "NORMAL"
+			},
+			"index": null,
+			"selectionLv2": null,
+			"selectionLv3": {
+				"dateValue": {
+					"from": "20260101",
+					"to": "20260930"
+				},
+				"bhv": [
+					"19299#|#CATE_PUBLIC_PAY"
+				],
+				"dateType": "ABSOLUTE_DATE_RANGE",
+				"extraFilters": {
+					"item": "1080531415807"
+				}
+			},
+			"selectionLv1": [
+				"COMMON_TOUCH",
+				"PUBLIC_ITEM_BHV"
+			],
+			"fromPoolId": 0
+		},
+		{
+			"op": null,
+			"lv2MetadataIdMap": null,
+			"extra": {
+				"status": "NORMAL"
+			},
+			"index": null,
+			"selectionLv2": null,
+			"selectionLv3": {
+				"dateValue": {
+					"from": "20260101",
+					"to": "20260930"
+				},
+				"bhv": [
+					"19299#|#CATE_PUBLIC_PAY"
+				],
+				"dateType": "ABSOLUTE_DATE_RANGE",
+				"extraFilters": {
+					"item": "1081409934319"
+				}
+			},
+			"selectionLv1": [
+				"COMMON_TOUCH",
+				"PUBLIC_ITEM_BHV"
+			],
+			"fromPoolId": 0
+		}
+	],
+	"compute": "(0u1u2u3u4u5)"
+}

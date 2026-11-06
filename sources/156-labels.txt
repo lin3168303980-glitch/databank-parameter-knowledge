@@ -1,0 +1,34 @@
+ControlType.ListItem|流量场行为 
+ControlType.Text|商品行为
+ControlType.ListItem|公域数据 
+ControlType.Text|活跃用户
+ControlType.Text|粉丝会员
+ControlType.Text|IP粉丝
+ControlType.Text|现有人群
+ControlType.Button|AIPL关系历史 收藏
+ControlType.Image|收藏
+ControlType.Button|SPU AIPL状态 收藏
+ControlType.Button|78636439#|#78636439 删除
+ControlType.Button|删除
+ControlType.Text|可从左侧拖入条件到达此处
+ControlType.Text|交
+ControlType.Text|并
+ControlType.Text|差
+ControlType.Text|并集进攻池
+ControlType.Text|
+ControlType.Text|3
+ControlType.Text|圈定满足以下任一条件的人
+ControlType.Text|删除进攻池
+ControlType.Button|公域数据 > 品类互动 > 类目公域行为 删除条件 收起条件 行为 18919#|#CATE_PUBLIC_PAY  [清空]  类目 点击选择类目  任意标题关键词 标准品牌
+ControlType.Hyperlink|
+ControlType.RadioButton|商品标题关键词
+ControlType.Button|18641319 删除
+ControlType.Button|16772#|#4 删除
+ControlType.RadioButton|不限
+ControlType.RadioButton|大于
+ControlType.RadioButton|区间
+ControlType.RadioButton|相对日期
+ControlType.RadioButton|固定日期
+ControlType.Edit|起始日期
+ControlType.Edit|结束日期
+ControlType.Button|清除

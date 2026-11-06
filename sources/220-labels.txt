@@ -1,0 +1,20 @@
+ControlType.ListItem|流量场行为 
+ControlType.Text|商品行为
+ControlType.ListItem|公域数据 
+ControlType.Text|活跃用户
+ControlType.Text|粉丝会员
+ControlType.Text|IP粉丝
+ControlType.Text|现有人群
+ControlType.Button|AIPL关系历史 收藏
+ControlType.Image|收藏
+ControlType.Button|SPU AIPL状态 收藏
+ControlType.Hyperlink|
+ControlType.RadioButton|相对日期
+ControlType.RadioButton|固定日期
+ControlType.Edit|起始日期
+ControlType.Edit|结束日期
+ControlType.Button|清除
+ControlType.Button|公域数据 > 品类互动 > 类目商品行为 删除条件 收起条件 行为 19299#|#CATE_PUBLIC_PAY  [清空]  商品id 992668580926 时间 2026-01-01 - 2026-09-30 清除 
+ControlType.Button|公域数据 > 品类互动 > 类目商品行为 删除条件 收起条件 行为 19299#|#CATE_PUBLIC_PAY  [清空]  商品id 1008193101458 时间 2026-01-01 - 2026-09-30 清除 
+ControlType.Button|公域数据 > 品类互动 > 类目商品行为 删除条件 收起条件 行为 19299#|#CATE_PUBLIC_PAY  [清空]  商品id 1053891530495 时间 2026-01-01 - 2026-09-30 清除 
+ControlType.Button|公域数据 > 品类互动 > 类目商品行为 删除条件 收起条件 行为 19299#|#CATE_PUBLIC_PAY  [清空]  商品id 1080531415807 时间 2026-01-01 - 2026-09-30 清除 

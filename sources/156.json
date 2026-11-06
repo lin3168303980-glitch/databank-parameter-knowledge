@@ -1,0 +1,203 @@
+{
+	"crowdName": "Y26YTD眼霜CPB_护肤老品偏二达_副本",
+	"list": [
+		{
+			"op": null,
+			"lv2MetadataIdMap": null,
+			"extra": {
+				"status": "NORMAL"
+			},
+			"index": null,
+			"selectionLv2": null,
+			"selectionLv3": {
+				"crowdIds": [
+					"78636439#|#78636439"
+				]
+			},
+			"selectionLv1": [
+				"CROWD",
+				"CUSTOM"
+			],
+			"fromPoolId": 0
+		},
+		{
+			"op": null,
+			"lv2MetadataIdMap": null,
+			"extra": {
+				"status": "NORMAL"
+			},
+			"index": null,
+			"selectionLv2": null,
+			"selectionLv3": {
+				"dateValue": {
+					"from": "20250101",
+					"to": "20251231"
+				},
+				"bhv": [
+					"18919#|#CATE_PUBLIC_PAY"
+				],
+				"dateType": "ABSOLUTE_DATE_RANGE",
+				"leafCates": [
+					"201161605#|#201161605",
+					"201166702#|#201166702",
+					"125172008#|#125172008",
+					"121460005#|#121460005",
+					"122438001#|#122438001",
+					"201164006#|#201164006",
+					"121398020#|#121398020",
+					"201834201#|#201834201",
+					"50010813#|#50010813",
+					"201161714#|#201161714"
+				],
+				"extraFilters": {
+					"stdBrand": [
+						"18641319"
+					],
+					"price": {
+						"op": "OPEN_OPEN"
+					},
+					"channel": [
+						"16772#|#4"
+					],
+					"itemprice": {
+						"op": "OPEN_OPEN"
+					},
+					"frequency": {
+						"op": "OPEN_OPEN"
+					}
+				}
+			},
+			"selectionLv1": [
+				"COMMON_TOUCH",
+				"PUBLIC_CATE_BHV"
+			],
+			"fromPoolId": 1
+		},
+		{
+			"op": null,
+			"lv2MetadataIdMap": null,
+			"extra": {
+				"status": "NORMAL"
+			},
+			"index": null,
+			"selectionLv2": null,
+			"selectionLv3": {
+				"dateValue": {
+					"from": "20250101",
+					"to": "20251231"
+				},
+				"bhv": [
+					"18919#|#CATE_PUBLIC_PAY"
+				],
+				"dateType": "ABSOLUTE_DATE_RANGE",
+				"leafCates": [
+					"50011993#|#50011993",
+					"201174001#|#201174001",
+					"50011997#|#50011997",
+					"121390006#|#121390006",
+					"121368010#|#121368010",
+					"50011991#|#50011991",
+					"50011980#|#50011980",
+					"201850303#|#201850303",
+					"121390007#|#121390007",
+					"50011990#|#50011990"
+				],
+				"extraFilters": {
+					"stdBrand": [
+						"18641319"
+					],
+					"price": {
+						"op": "OPEN_OPEN"
+					},
+					"channel": [
+						"16772#|#4"
+					],
+					"itemprice": {
+						"op": "OPEN_OPEN"
+					},
+					"frequency": {
+						"op": "OPEN_OPEN"
+					}
+				}
+			},
+			"selectionLv1": [
+				"COMMON_TOUCH",
+				"PUBLIC_CATE_BHV"
+			],
+			"fromPoolId": 1
+		},
+		{
+			"op": null,
+			"lv2MetadataIdMap": null,
+			"extra": {
+				"status": "NORMAL"
+			},
+			"index": null,
+			"selectionLv2": null,
+			"selectionLv3": {
+				"dateValue": {
+					"from": "20250101",
+					"to": "20251231"
+				},
+				"bhv": [
+					"18919#|#CATE_PUBLIC_PAY"
+				],
+				"dateType": "ABSOLUTE_DATE_RANGE",
+				"leafCates": [
+					"121408009#|#121408009",
+					"121448009#|#121448009",
+					"201173303#|#201173303",
+					"50011978#|#50011978",
+					"50011977#|#50011977",
+					"50011992#|#50011992",
+					"201845606#|#201845606",
+					"201848908#|#201848908",
+					"50011996#|#50011996",
+					"121454013#|#121454013"
+				],
+				"extraFilters": {
+					"stdBrand": [
+						"18641319"
+					],
+					"price": {
+						"op": "OPEN_OPEN"
+					},
+					"channel": [
+						"16772#|#4"
+					],
+					"itemprice": {
+						"op": "OPEN_OPEN"
+					},
+					"frequency": {
+						"op": "OPEN_OPEN"
+					}
+				}
+			},
+			"selectionLv1": [
+				"COMMON_TOUCH",
+				"PUBLIC_CATE_BHV"
+			],
+			"fromPoolId": 1
+		},
+		{
+			"op": null,
+			"lv2MetadataIdMap": null,
+			"extra": {
+				"status": "NORMAL"
+			},
+			"index": null,
+			"selectionLv2": null,
+			"selectionLv3": {
+				"crowdIds": [
+					"78620882#|#78620882"
+				]
+			},
+			"selectionLv1": [
+				"CROWD",
+				"CUSTOM"
+			],
+			"fromPoolId": 2
+		}
+	],
+	"compute": "(0)d(1u2u3)d(4)"
+}

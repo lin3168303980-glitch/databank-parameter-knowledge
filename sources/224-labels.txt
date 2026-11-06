@@ -1,0 +1,25 @@
+ControlType.ListItem|流量场行为 
+ControlType.Text|商品行为
+ControlType.ListItem|公域数据 
+ControlType.Text|活跃用户
+ControlType.Text|粉丝会员
+ControlType.Text|IP粉丝
+ControlType.Text|现有人群
+ControlType.Button|AIPL关系历史 收藏
+ControlType.Image|收藏
+ControlType.Button|SPU AIPL状态 收藏
+ControlType.CheckBox| 购买
+ControlType.CheckBox| 预售
+ControlType.CheckBox| 浏览
+ControlType.CheckBox| 收藏
+ControlType.CheckBox| 加购
+ControlType.CheckBox| 评论
+ControlType.RadioButton|相对日期
+ControlType.RadioButton|固定日期
+ControlType.Edit|开始日期
+ControlType.Edit|结束日期
+ControlType.Button|明确
+ControlType.Text|可从左侧拖入条件到达此处
+ControlType.Text|增加补贴池
+ControlType.Text|添加交集装甲池
+ControlType.Text|添加并集装甲池
